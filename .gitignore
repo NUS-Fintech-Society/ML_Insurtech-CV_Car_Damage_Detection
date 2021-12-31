@@ -1,0 +1,13 @@
+# Development files
+.vscode
+__pycache__/
+__init__.py
+*.pyc
+
+# Other files
+development/Notebook/yolov5_1/YoloAnnotation
+Mask_RCNN/**
+
+# Model weights
+*.h5
+*.pt
